@@ -4,6 +4,6 @@
 
 1. git branch
 2. git checkout
-   git remote
-3. git merge
-4. git diff
+3. git remote
+4. git merge
+5. git diff
