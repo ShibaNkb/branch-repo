@@ -7,3 +7,5 @@
 3. git remote
 4. git merge
 5. git diff
+
+## Now practising on branching
